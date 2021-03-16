@@ -30,6 +30,6 @@ In order to use this demo application you must first have installed:
 <p float="left">
 	<img src="https://avatars.githubusercontent.com/u/35189722?s=52&v=4">
 	<img src="https://avatars.githubusercontent.com/u/42269590?s=52&v=4">
-	<img src="https://avatars.githubusercontent.com/u/76524156?s=52&v=4" width="56" height="56">
+	<img src="https://avatars.githubusercontent.com/u/76524156?s=52&v=4" width="52" height="52">
 	<img src="https://avatars.githubusercontent.com/u/76584243?s=52&v=4">
 	<img src="https://avatars.githubusercontent.com/u/78471522?s=52&v=4">
