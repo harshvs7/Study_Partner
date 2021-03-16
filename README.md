@@ -26,3 +26,6 @@ In order to use this demo application you must first have installed:
 	<img src="https://github.com/krayong/Study_Partner/blob/master/Reminder%20Screen.jpg" alt="Reminder Screen" width="150">
 	<img src="https://github.com/krayong/Study_Partner/blob/master/Star%20Screen.jpg" alt="Star Screen" width="150">
 </p>
+### Contributors
+<p float="left">
+	<img src="https://avatars.githubusercontent.com/u/35189722?s=52&v=4">
